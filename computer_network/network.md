@@ -1482,7 +1482,7 @@ HTTPS通信步骤如下
 
 ##### HTTP1.1 vs HTTP2.0
 
-![http2](/Users/honne/Desktop/面试笔记/计网/asset/http2.png)
+![http2](./asset/http2.png)
 
 #### 处理HTTP请求
 
@@ -1492,7 +1492,7 @@ HTTPS通信步骤如下
 
 3. **处理HTTP请求(解析请求头信息)**
 
-   <img src="/Users/honne/Desktop/面试笔记/计网/asset/http_request_handle.png" alt="http_request_handle" style="zoom: 67%;" />
+   <img src="./asset/http_request_handle.png" alt="http_request_handle" style="zoom: 67%;" />
 
 4. **访问资源**
 
