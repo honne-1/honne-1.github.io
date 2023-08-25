@@ -1,4 +1,4 @@
 # honne-1.github.io
 
-[Computer Network]: computer_network/network.md
+[Computer Network]: computer_network/network.md	"Computer Network"
 
